@@ -1,6 +1,5 @@
 {
-    "ruby.codeCompletion": "rcodetools",
-    // Basic settings: turn linter(s) on
+        // Basic settings: turn linter(s) on
     "ruby.lint": {
         "levels": [ /* a subset of these */
             "error",
